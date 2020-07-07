@@ -1,0 +1,18 @@
+@font-face{
+  font-family: 'Roboto-Thin';
+  src: url ('./fonts/Roboto-Thin.ttf')
+}
+
+*{
+  font-family: 'Roboto-Thin';
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:whitesmoke;
+  background: linear-gradient(to right, #42275a, #734b6d);
+}
